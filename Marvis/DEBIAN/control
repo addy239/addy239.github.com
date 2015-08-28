@@ -1,7 +1,7 @@
 Package: com.appaddy.marvis
 Name: Marvis+
 Depends: mobilesubstrate
-Version: 1.0.1
+Version: 1.0.1-1
 Architecture: iphoneos-arm
 Description: Added Features to Marvis Music Player
 Maintainer: Addy
