@@ -3,12 +3,7 @@ Version: 1.0.1-1
 Architecture: iphoneos-arm
 Name: Marvis+
 Depends: mobilesubstrate
-Description: Makes /b/Marvis Music Player/b/ Default Player.
-So, Tapping the Title in Control Centre opens Marvis Instead of Stock Music App.
-
-More Features will be added in Future Updates.
-
-This Package was tested on 8.3 and 8.4.
+Description: Makes Marvis Music Player Default Player.\nSo, Tapping the Title in Control Centre opens Marvis Instead of Stock Music App.\nMore Features will be added in Future Updates.\nThis Package was tested on 8.3 and 8.4.
 Maintainer: Addy <marvis_music@yahoo.com>
 Author: Addy <marvis_music@yahoo.com>
 Section: Tweaks
