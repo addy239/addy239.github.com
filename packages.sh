@@ -1,1 +1,1 @@
-dpkg-deb -b Marvis101
+dpkg-deb -b Marvis
