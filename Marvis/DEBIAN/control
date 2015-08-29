@@ -4,14 +4,13 @@ Architecture: iphoneos-arm
 Name: Marvis+
 Depends: mobilesubstrate
 Description: Added Features to Marvis Music Player.
- 
- So, Tapping the Title in Control Centre opens Marvis Instead of Stock Music App.
+ Makes Marvis Music Player Default. So, Tapping the Title in Control Centre opens Marvis Instead of Stock Music App.
  
  More Features will be added in Future Updates.
  
- This Package was tested on 8.3 and 8.4.
- 
- https://appsto.re/us/9L465.i
+ This Tweak was tested on iOS 8.3 and 8.4.
+
+ Working with Alympus. Should probably also work with other Tweaks like Auxo.
 Maintainer: Addy <marvis_music@yahoo.com>
 Author: Addy <marvis_music@yahoo.com>
 Section: Tweaks
