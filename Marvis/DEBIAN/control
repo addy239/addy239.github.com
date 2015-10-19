@@ -1,5 +1,5 @@
 Package: com.appaddy.marvis
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Name: Marvis+
 Depends: mobilesubstrate
@@ -8,10 +8,12 @@ Description: Added Features to Marvis Music Player.
  
  More Features will be added in Future Updates.
  
- This Tweak was tested on iOS 8.3 and 8.4.
+ (Tested on iOS 9.)
  
- Working with Alympus. Should probably also work with other Tweaks like Auxo.
+ Also Enables Editing of 3D Touch Actions even for non-iPhone 6s Devices.
 Maintainer: Addy <marvis_music@yahoo.com>
 Author: Addy <marvis_music@yahoo.com>
 Section: Tweaks
 Icon: file:///Library/MobileSubstrate/DynamicLibraries/MarvisIcon.png
+Installed-Size: 120
+
