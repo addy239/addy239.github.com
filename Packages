@@ -1,5 +1,5 @@
 Package: com.appaddy.marvis
-Version: 1.0.3-96
+Version: 1.0.3
 Section: Tweaks
 Maintainer: Addy <marvis_music@yahoo.com>
 Depends: mobilesubstrate
@@ -10,11 +10,8 @@ MD5sum: 3efd47536f8fa0c946b2494f3d978a17
 Description: Added Features to Marvis Music Player.
  Makes Marvis Music Player Default. So, Tapping the Title in Control Centre opens Marvis Instead of Stock Music App.
  
- More Features will be added in Future Updates.
- 
  (Tested on iOS 9.)
  
  Also Enables Editing of 3D Touch Actions even for non-iPhone 6s Devices so you can use them with tweaks like Forcy or RevealMenu.
 name: Marvis+
 author: Addy <marvis_music@yahoo.com>
-
