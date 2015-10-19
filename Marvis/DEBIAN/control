@@ -6,8 +6,6 @@ Depends: mobilesubstrate
 Description: Added Features to Marvis Music Player.
  Makes Marvis Music Player Default. So, Tapping the Title in Control Centre opens Marvis Instead of Stock Music App.
  
- More Features will be added in Future Updates.
- 
  (Tested on iOS 9.)
  
  Also Enables Editing of 3D Touch Actions even for non-iPhone 6s Devices so you can use them with tweaks like Forcy or RevealMenu.

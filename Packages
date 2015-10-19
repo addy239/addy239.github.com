@@ -5,13 +5,15 @@ Maintainer: Addy <marvis_music@yahoo.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//Marvis.deb
-Size: 6106
-MD5sum: 3efd47536f8fa0c946b2494f3d978a17
+Size: 15506
+MD5sum: d4e27f9fc1defc6d6cc08d5dedcde30c
 Description: Added Features to Marvis Music Player.
  Makes Marvis Music Player Default. So, Tapping the Title in Control Centre opens Marvis Instead of Stock Music App.
  
  (Tested on iOS 9.)
  
  Also Enables Editing of 3D Touch Actions even for non-iPhone 6s Devices so you can use them with tweaks like Forcy or RevealMenu.
-name: Marvis+
 author: Addy <marvis_music@yahoo.com>
+name: Marvis+
+icon: file:///Library/MobileSubstrate/DynamicLibraries/MarvisIcon.png
+
