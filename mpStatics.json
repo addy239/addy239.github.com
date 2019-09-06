@@ -1,3 +1,7 @@
 {
-    "discordURL": "https://discord.gg/Vtjumtm"
+    "discordURL": "https://discord.gg/Vtjumtm",
+    "forYouParams" : {
+        "with": "friendsMix",
+        "mode": "forYou"
+    }
 }
