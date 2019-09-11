@@ -6,12 +6,12 @@
     },
     "applicationPlayerSupported" : [
         {
-            "lessThan": "12.0",
-            "greaterThanEqualTo": "12.2"
+            "<": "12.0",
+            ">=": "12.2"
         },
         { 
-           "lessThan": "13.0",
-           "greaterThanEqualTo": "13.2"
+           "<": "13.0",
+           ">=": "13.2"
         }
     ]
 }
