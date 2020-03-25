@@ -24,10 +24,10 @@
             ">=": "14.0"
         }
     ],
-    "shouldAutoManageRepeat": [
+    "shouldManuallyManageRepeat": [
         {
-            "<": "14.0",
-            ">=": "13.4"
+            "<": "13.4",
+            ">=": "14.0"
         }
     ]
 }
