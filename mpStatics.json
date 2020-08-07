@@ -17,13 +17,13 @@
     "canUseManageShuffle": [
         {
             "<": "13.4",
-            ">=": "14.0"
+            ">=": "15.0"
         }
     ],
     "shouldManuallyManageRepeat": [
         {
             "<": "13.4",
-            ">=": "14.0"
+            ">=": "15.0"
         }
     ]
 }
