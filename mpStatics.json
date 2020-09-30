@@ -1,5 +1,6 @@
 {
     "discordURL": "https://discord.gg/Vtjumtm",
+    "lastFmRepeatScrobbleEnabled": true,
     "forYouParams" : {
         "with": "friendsMix",
         "mode": "forYou"
