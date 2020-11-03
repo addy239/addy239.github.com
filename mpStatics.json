@@ -3,6 +3,7 @@
     "lastFmRepeatScrobbleEnabled": true,
     "minimizeAppToHomeAllowed": true,
     "lastFmProTitle": "Last.fmᐩ",
+    "useInvokeBasedNowPlayingForWidgets": true,
     "forYouParams" : {
         "with": "friendsMix",
         "mode": "forYou"
