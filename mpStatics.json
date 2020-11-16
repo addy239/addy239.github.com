@@ -5,8 +5,8 @@
     "lastFmProTitle": "Last.fmᐩ",
     "useInvokeBasedNowPlayingForWidgets": true,
     "searchTerms": {
-        "curator": nil,
-        "activity": nil,
+        "curator": null,
+        "activity": null,
         "radio": "Radio"
     },
     "forYouParams" : {
