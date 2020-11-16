@@ -4,6 +4,10 @@
     "minimizeAppToHomeAllowed": true,
     "lastFmProTitle": "Last.fmᐩ",
     "useInvokeBasedNowPlayingForWidgets": true,
+    "searchSectionSearchTerms": {
+        "curators": "Curator",
+        "activities": "Activity"
+    },
     "forYouParams" : {
         "with": "friendsMix",
         "mode": "forYou"
