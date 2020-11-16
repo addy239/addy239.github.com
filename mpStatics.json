@@ -6,7 +6,8 @@
     "useInvokeBasedNowPlayingForWidgets": true,
     "searchTerms": {
         "curators": "Curator",
-        "activities": "Activity"
+        "activities": "Activity",
+        "radio": "Radio"
     },
     "forYouParams" : {
         "with": "friendsMix",
