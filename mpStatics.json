@@ -27,13 +27,13 @@
     "canUseManageShuffle": [
         {
             "<": "13.4",
-            ">=": "15.0"
+            ">=": "20.0"
         }
     ],
     "shouldManuallyManageRepeat": [
         {
             "<": "13.4",
-            ">=": "15.0"
+            ">=": "20.0"
         }
     ]
 }
