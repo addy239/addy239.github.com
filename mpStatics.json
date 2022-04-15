@@ -8,8 +8,7 @@
         "curator": null,
         "activity": null,
         "apple-curator": "Apple Music",
-        "radio": "Radio",
-        "record-label": "Record Labels"
+        "radio": "Radio"
     },
     "forYouParams" : {
         "with": "friendsMix",
