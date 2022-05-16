@@ -4,7 +4,7 @@
     "minimizeAppToHomeAllowed": true,
     "lastFmProTitle": "Last.fmᐩ",
     "useInvokeBasedNowPlayingForWidgets": true,
-    "shouldFetchPopularityData": true,
+    "shouldFetchPopularityData": false,
     "searchTerms": {
         "curator": null,
         "activity": null,
