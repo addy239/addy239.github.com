@@ -12,7 +12,8 @@
         "radio": "Radio"
     },
     "forYouParams" : {
-        "with": "friendsMix"
+        "with": "friendsMix",
+        "mode": "forYou"
     },
     "applicationPlayerSupported" : [
         {
