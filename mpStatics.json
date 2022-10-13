@@ -48,7 +48,7 @@
             ">=": "16.0",
             "<": "17.0",
             "library": "local",
-            "type": ["playlist"]
+            "type": ["playlists"]
         }
     ]
 }
