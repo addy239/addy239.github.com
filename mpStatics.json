@@ -46,7 +46,7 @@
     "doNotPreferListeningHistorySafePlayback": [
         {
             ">=": "16.0",
-            "<": "17.0"
+            "<": "17.0",
             "library": "local"
         }
     ]
