@@ -40,13 +40,15 @@
     "flipUIImageViewForSymbols": [
         {
             "<": "20.0",
-            ">=": "15.0"
+            ">=": "15.0",
+            "op": "&"
         }
     ],
     "doNotPreferListeningHistorySafePlayback": [
         {
             ">=": "16.0",
             "<": "17.0",
+            "op": "&",
             "library": "local"
         }
     ]
