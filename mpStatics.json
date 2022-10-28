@@ -6,8 +6,6 @@
     "useInvokeBasedNowPlayingForWidgets": true,
     "shouldFetchPopularityData": true,
     "searchTerms": {
-        "curator": null,
-        "activity": null,
         "apple-curator": "Apple Music",
         "radio": "Radio"
     },
@@ -29,6 +27,13 @@
         {
             "<": "13.4",
             ">=": "20.0"
+        }
+    ],
+    "playInMusicApp": [
+        {
+            ">=": "16.1",
+            "<": "17.0",
+            "type": ["stations"]
         }
     ],
     "shouldManuallyManageRepeat": [
