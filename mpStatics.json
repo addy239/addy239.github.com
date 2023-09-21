@@ -6,7 +6,7 @@
     "useInvokeBasedNowPlayingForWidgets": true,
     "shouldFetchPopularityData": true,
     "searchTerms": {
-        "apple-curator": "Apple Music",
+        "apple-curator": "Apple",
         "radio": "Radio"
     },
     "forYouParams" : {
