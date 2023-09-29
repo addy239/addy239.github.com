@@ -51,7 +51,7 @@
     "doNotPreferListeningHistorySafePlayback": [
         {
             ">=": "16.0",
-            "<": "17.0",
+            "<": "18.0",
             "library": "local",
             "type": ["playlists"]
         }
