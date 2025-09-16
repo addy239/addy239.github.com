@@ -39,19 +39,19 @@
     "shouldManuallyManageRepeat": [
         {
             "<": "13.4",
-            ">=": "20.0"
+            ">=": "100.0"
         }
     ],
     "flipUIImageViewForSymbols": [
         {
-            "<": "20.0",
+            "<": "100.0",
             ">=": "15.0"
         }
     ],
     "doNotPreferListeningHistorySafePlayback": [
         {
             ">=": "16.0",
-            "<": "20.0",
+            "<": "100.0",
             "library": "local",
             "type": ["playlists"]
         }
