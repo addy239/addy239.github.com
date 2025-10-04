@@ -54,6 +54,12 @@
             "<": "100.0",
             "library": "local",
             "type": ["playlists"]
+        },
+        {
+            ">=": "16.0",
+            "<": "100.0",
+            "library": "cloud",
+            "type": ["playlists"]
         }
     ]
 }
