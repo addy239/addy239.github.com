@@ -56,7 +56,7 @@
             "type": ["playlists"]
         },
         {
-            ">=": "26.0",
+            ">=": "18.1",
             "<": "100.0",
             "library": "cloud",
             "type": ["playlists"]
